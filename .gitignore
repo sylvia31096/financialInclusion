@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+data/extra/*
+financial-inclusion.code-workspace
